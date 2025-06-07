@@ -1,0 +1,14 @@
+# Node/Vite/React
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Java
+backend/target/
+backend/.idea/
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# Logs
+*.log
