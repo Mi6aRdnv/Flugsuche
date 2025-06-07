@@ -7,9 +7,11 @@ A simple one-page flight search interface built with **React (Vite)** on the fro
 <pre>
 Flugsuche/
 ├── frontend/ # React app (Vite, native JS)
-├── backend/ # Java API
+├── backend/  # Java API
 └── README.md
 </pre>
+
+➡️ For detailed frontend setup and usage, see [frontend/README.md](./frontend/README.md)
 
 ## 🎯 Goal
 
@@ -23,7 +25,26 @@ Build a minimal working clone of the Flugsuche UI and logic, using real REST com
 
 ## 📦 How to Start
 
-This section will be filled in after setup is complete.
+### Prerequisites
+
+- Node.js (v18 or newer recommended)
+- Java (v17 or newer recommended)
+
+### Frontend
+
+See [frontend/README.md](./frontend/README.md) for detailed instructions.
+
+Quick start:
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+### Backend
+
+Add backend setup instructions here when ready.
 
 ---
 
